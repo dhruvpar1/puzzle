@@ -15,7 +15,7 @@ Welcome to the Puzzle App! This app is designed to provide a fun and engaging ex
 
 ## Built With
 
-Our Puzzle App is built using the following technologies:
+Our Puzzle App is built using the following technologies:.
 
 - **Node.js:** The backend of the app is powered by Node.js, providing a fast and scalable server environment.
 
